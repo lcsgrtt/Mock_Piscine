@@ -1,0 +1,1 @@
+git log --all -5 --format="%H";
